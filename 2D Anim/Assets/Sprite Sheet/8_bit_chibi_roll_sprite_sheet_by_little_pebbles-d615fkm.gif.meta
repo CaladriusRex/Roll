@@ -1,0 +1,664 @@
+fileFormatVersion: 2
+guid: 6976d5504e15290468f6c774471fea26
+timeCreated: 1503409349
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: 8_bit_chibi_roll_sprite_sheet_by_little_pebbles-d615fkm_0
+    21300002: 8_bit_chibi_roll_sprite_sheet_by_little_pebbles-d615fkm_1
+    21300004: 8_bit_chibi_roll_sprite_sheet_by_little_pebbles-d615fkm_2
+    21300006: 8_bit_chibi_roll_sprite_sheet_by_little_pebbles-d615fkm_3
+    21300008: 8_bit_chibi_roll_sprite_sheet_by_little_pebbles-d615fkm_4
+    21300010: 8_bit_chibi_roll_sprite_sheet_by_little_pebbles-d615fkm_5
+    21300012: 8_bit_chibi_roll_sprite_sheet_by_little_pebbles-d615fkm_6
+    21300014: 8_bit_chibi_roll_sprite_sheet_by_little_pebbles-d615fkm_7
+    21300016: 8_bit_chibi_roll_sprite_sheet_by_little_pebbles-d615fkm_8
+    21300018: 8_bit_chibi_roll_sprite_sheet_by_little_pebbles-d615fkm_9
+    21300020: 8_bit_chibi_roll_sprite_sheet_by_little_pebbles-d615fkm_10
+    21300022: 8_bit_chibi_roll_sprite_sheet_by_little_pebbles-d615fkm_11
+    21300024: 8_bit_chibi_roll_sprite_sheet_by_little_pebbles-d615fkm_12
+    21300026: 8_bit_chibi_roll_sprite_sheet_by_little_pebbles-d615fkm_13
+    21300028: 8_bit_chibi_roll_sprite_sheet_by_little_pebbles-d615fkm_14
+    21300030: 8_bit_chibi_roll_sprite_sheet_by_little_pebbles-d615fkm_15
+    21300032: 8_bit_chibi_roll_sprite_sheet_by_little_pebbles-d615fkm_16
+    21300034: 8_bit_chibi_roll_sprite_sheet_by_little_pebbles-d615fkm_17
+    21300036: 8_bit_chibi_roll_sprite_sheet_by_little_pebbles-d615fkm_18
+    21300038: 8_bit_chibi_roll_sprite_sheet_by_little_pebbles-d615fkm_19
+    21300040: 8_bit_chibi_roll_sprite_sheet_by_little_pebbles-d615fkm_20
+    21300042: 8_bit_chibi_roll_sprite_sheet_by_little_pebbles-d615fkm_21
+    21300044: 8_bit_chibi_roll_sprite_sheet_by_little_pebbles-d615fkm_22
+    21300046: 8_bit_chibi_roll_sprite_sheet_by_little_pebbles-d615fkm_23
+    21300048: 8_bit_chibi_roll_sprite_sheet_by_little_pebbles-d615fkm_24
+    21300050: 8_bit_chibi_roll_sprite_sheet_by_little_pebbles-d615fkm_25
+    21300052: 8_bit_chibi_roll_sprite_sheet_by_little_pebbles-d615fkm_26
+    21300054: 8_bit_chibi_roll_sprite_sheet_by_little_pebbles-d615fkm_27
+    21300056: 8_bit_chibi_roll_sprite_sheet_by_little_pebbles-d615fkm_28
+    21300058: 8_bit_chibi_roll_sprite_sheet_by_little_pebbles-d615fkm_29
+    21300060: 8_bit_chibi_roll_sprite_sheet_by_little_pebbles-d615fkm_30
+    21300062: 8_bit_chibi_roll_sprite_sheet_by_little_pebbles-d615fkm_31
+    21300064: 8_bit_chibi_roll_sprite_sheet_by_little_pebbles-d615fkm_32
+    21300066: 8_bit_chibi_roll_sprite_sheet_by_little_pebbles-d615fkm_33
+    21300068: 8_bit_chibi_roll_sprite_sheet_by_little_pebbles-d615fkm_34
+    21300070: 8_bit_chibi_roll_sprite_sheet_by_little_pebbles-d615fkm_35
+    21300072: 8_bit_chibi_roll_sprite_sheet_by_little_pebbles-d615fkm_36
+    21300074: 8_bit_chibi_roll_sprite_sheet_by_little_pebbles-d615fkm_37
+    21300076: 8_bit_chibi_roll_sprite_sheet_by_little_pebbles-d615fkm_38
+    21300078: 8_bit_chibi_roll_sprite_sheet_by_little_pebbles-d615fkm_39
+    21300080: 8_bit_chibi_roll_sprite_sheet_by_little_pebbles-d615fkm_40
+    21300082: 8_bit_chibi_roll_sprite_sheet_by_little_pebbles-d615fkm_41
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 8_bit_chibi_roll_sprite_sheet_by_little_pebbles-d615fkm_0
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 141
+        width: 19
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 8_bit_chibi_roll_sprite_sheet_by_little_pebbles-d615fkm_1
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 141
+        width: 19
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 8_bit_chibi_roll_sprite_sheet_by_little_pebbles-d615fkm_2
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 141
+        width: 19
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 8_bit_chibi_roll_sprite_sheet_by_little_pebbles-d615fkm_3
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 140
+        width: 19
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 8_bit_chibi_roll_sprite_sheet_by_little_pebbles-d615fkm_4
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 140
+        width: 19
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 8_bit_chibi_roll_sprite_sheet_by_little_pebbles-d615fkm_5
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 140
+        width: 19
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 8_bit_chibi_roll_sprite_sheet_by_little_pebbles-d615fkm_6
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 106
+        width: 18
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 8_bit_chibi_roll_sprite_sheet_by_little_pebbles-d615fkm_7
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 106
+        width: 27
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 8_bit_chibi_roll_sprite_sheet_by_little_pebbles-d615fkm_8
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 106
+        width: 24
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 8_bit_chibi_roll_sprite_sheet_by_little_pebbles-d615fkm_9
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 106
+        width: 26
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 8_bit_chibi_roll_sprite_sheet_by_little_pebbles-d615fkm_10
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 106
+        width: 24
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 8_bit_chibi_roll_sprite_sheet_by_little_pebbles-d615fkm_11
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 118
+        width: 8
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 8_bit_chibi_roll_sprite_sheet_by_little_pebbles-d615fkm_12
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 116
+        width: 10
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 8_bit_chibi_roll_sprite_sheet_by_little_pebbles-d615fkm_13
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 115
+        width: 12
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 8_bit_chibi_roll_sprite_sheet_by_little_pebbles-d615fkm_14
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 115
+        width: 29
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 8_bit_chibi_roll_sprite_sheet_by_little_pebbles-d615fkm_15
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 101
+        width: 8
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 8_bit_chibi_roll_sprite_sheet_by_little_pebbles-d615fkm_16
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 99
+        width: 10
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 8_bit_chibi_roll_sprite_sheet_by_little_pebbles-d615fkm_17
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 98
+        width: 12
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 8_bit_chibi_roll_sprite_sheet_by_little_pebbles-d615fkm_18
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 99
+        width: 29
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 8_bit_chibi_roll_sprite_sheet_by_little_pebbles-d615fkm_19
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 61
+        width: 28
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 8_bit_chibi_roll_sprite_sheet_by_little_pebbles-d615fkm_20
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 61
+        width: 33
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 8_bit_chibi_roll_sprite_sheet_by_little_pebbles-d615fkm_21
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 61
+        width: 32
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 8_bit_chibi_roll_sprite_sheet_by_little_pebbles-d615fkm_22
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 61
+        width: 32
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 8_bit_chibi_roll_sprite_sheet_by_little_pebbles-d615fkm_23
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 61
+        width: 29
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 8_bit_chibi_roll_sprite_sheet_by_little_pebbles-d615fkm_24
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 85
+        width: 8
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 8_bit_chibi_roll_sprite_sheet_by_little_pebbles-d615fkm_25
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 83
+        width: 10
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 8_bit_chibi_roll_sprite_sheet_by_little_pebbles-d615fkm_26
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 82
+        width: 12
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 8_bit_chibi_roll_sprite_sheet_by_little_pebbles-d615fkm_27
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 82
+        width: 29
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 8_bit_chibi_roll_sprite_sheet_by_little_pebbles-d615fkm_28
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 68
+        width: 8
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 8_bit_chibi_roll_sprite_sheet_by_little_pebbles-d615fkm_29
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 66
+        width: 10
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 8_bit_chibi_roll_sprite_sheet_by_little_pebbles-d615fkm_30
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 65
+        width: 12
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 8_bit_chibi_roll_sprite_sheet_by_little_pebbles-d615fkm_31
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 66
+        width: 29
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 8_bit_chibi_roll_sprite_sheet_by_little_pebbles-d615fkm_32
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 52
+        width: 8
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 8_bit_chibi_roll_sprite_sheet_by_little_pebbles-d615fkm_33
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 50
+        width: 10
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 8_bit_chibi_roll_sprite_sheet_by_little_pebbles-d615fkm_34
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 49
+        width: 12
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 8_bit_chibi_roll_sprite_sheet_by_little_pebbles-d615fkm_35
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 49
+        width: 29
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 8_bit_chibi_roll_sprite_sheet_by_little_pebbles-d615fkm_36
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 17
+        width: 17
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 8_bit_chibi_roll_sprite_sheet_by_little_pebbles-d615fkm_37
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 17
+        width: 17
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 8_bit_chibi_roll_sprite_sheet_by_little_pebbles-d615fkm_38
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 17
+        width: 17
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 8_bit_chibi_roll_sprite_sheet_by_little_pebbles-d615fkm_39
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 17
+        width: 19
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 8_bit_chibi_roll_sprite_sheet_by_little_pebbles-d615fkm_40
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 20
+        width: 17
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 8_bit_chibi_roll_sprite_sheet_by_little_pebbles-d615fkm_41
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 21
+        width: 18
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
