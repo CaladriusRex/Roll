@@ -29,5 +29,11 @@ public class Movement : MonoBehaviour {
 
         if (Input.GetKeyUp(KeyCode.RightArrow))
             anim.SetBool("Walking Right", false);
+
+        if (Input.GetKeyDown(KeyCode.UpArrow))
+            anim.SetBool("Jumping", true);
+
+        if (Input.GetKeyUp(KeyCode.UpArrow))
+            anim.SetBool("Jumping", false);
     }
 }
